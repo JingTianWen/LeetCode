@@ -17,7 +17,7 @@
 class Solution {
 public:
 	int maxSubArray(vector<int>& nums) {
-
+		vector<vector<int>> table;
 	}
 };
 
